@@ -1,0 +1,8 @@
+C:\slavena-11a\Claculator\CalculatorExample\bin\Debug\CalculatorExample.exe.config
+C:\slavena-11a\Claculator\CalculatorExample\bin\Debug\CalculatorExample.exe
+C:\slavena-11a\Claculator\CalculatorExample\bin\Debug\CalculatorExample.pdb
+C:\slavena-11a\Claculator\CalculatorExample\obj\Debug\CalculatorExample.csproj.AssemblyReference.cache
+C:\slavena-11a\Claculator\CalculatorExample\obj\Debug\CalculatorExample.csproj.SuggestedBindingRedirects.cache
+C:\slavena-11a\Claculator\CalculatorExample\obj\Debug\CalculatorExample.csproj.CoreCompileInputs.cache
+C:\slavena-11a\Claculator\CalculatorExample\obj\Debug\CalculatorExample.exe
+C:\slavena-11a\Claculator\CalculatorExample\obj\Debug\CalculatorExample.pdb
